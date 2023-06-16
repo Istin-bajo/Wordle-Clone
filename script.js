@@ -1,4 +1,3 @@
-console.log("hey");
 const targetWords = [
   "cigar",
   "rebut",
